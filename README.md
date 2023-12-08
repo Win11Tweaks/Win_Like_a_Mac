@@ -41,7 +41,7 @@ You're able to find the password of the project in the changelog where you downl
 <br>
 <br>
 <br>
-### _**@WinTweaks11 want to thanks every person who helped with the Projects and is named in the changelogs of every version!**_
+### _**@WinTweaks11 want to thanks everyone who helped with the Projects and is named in the changelogs of every version!**_
 <br>
 <br>
 <br>
