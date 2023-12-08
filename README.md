@@ -39,7 +39,7 @@ You're able to find the password of the project in the changelog where you downl
 <br>
 <br>
 <br>
-Copyright of the project: <br>
+_Copyright of the project:_ <br>
 <br>
                 GNU GENERAL PUBLIC LICENSE
                   Version 3, 29 June 2007
