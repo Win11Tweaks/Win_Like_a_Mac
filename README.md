@@ -39,11 +39,4 @@ You're able to find the password of the project in the changelog where you downl
 <br>
 <br>
 <br>
-Copyright for some parts of the project ( like the 'Install_This_TweakPack.bat' ): <br>
-<br>
-                GNU GENERAL PUBLIC LICENSE
-                  Version 3, 29 June 2007
-
-Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> <br>
-Everyone is permitted to copy and distribute verbatim copies
-of this license document, but changing it is not allowed.
+This Project falls under the terms and conditions of the (c)WinTweaks11_Open_Use_License. 
