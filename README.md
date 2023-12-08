@@ -1,4 +1,4 @@
-### WIndows like a Mac
+### Windows like a Mac
 **Hey you, Yeah you!** 
 Did you always wanted a computer that has the looks of a Mac but all the software capabilities of Windows? Then is this the Project Just for you! With this amazing Project you can make it happen! 
 
