@@ -39,7 +39,7 @@ You're able to find the password of the project in the changelog where you downl
 <br>
 <br>
 <br>
-Copyright of the project: <br>
+Copyright for some parts of the project ( like the 'Install_This_TweakPack.bat' ): <br>
 <br>
                 GNU GENERAL PUBLIC LICENSE
                   Version 3, 29 June 2007
