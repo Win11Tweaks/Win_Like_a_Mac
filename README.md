@@ -15,6 +15,7 @@ Something new that we do is that we make you able to download seperate apps inst
    - **And More...**
 
 So if you like this amazing Project.. Download and Install this Project now! 
+We are going to put media files here, so you can see how it look.
 
 ### **Open source?!**
 Yes we are and try to be open source (that's why we are here) but sometimes we need to use for example programs that aren't open source when this occurs you will be warned about this with the program that isn't open source! 
