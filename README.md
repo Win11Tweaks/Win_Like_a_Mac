@@ -31,8 +31,12 @@ In the future we will provide versions made with feedback from the community in 
 
 ### **Where to find the password?**
 You're able to find the password of the project in the changelog where you download the version you want. 
-(for example: #Custom-Pre-Release, #Release, etc...)
- 
- 
- 
+(In the Releases section where you can download different versions of the project)
+<br>
+<br>
+<br>
 ### _**@WinTweaks11 want to thanks every person who helped with the Projects and is named in the changelogs of every version!**_
+<br>
+<br>
+<br>
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
