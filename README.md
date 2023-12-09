@@ -18,7 +18,7 @@ So if you like this amazing Project.. Download and Install this Project now!
 We are going to put media files here, so you can see how it look.
 
 ### **Open source?!**
-Yes we are in fact open source but in a different way because we want to know where our files end up, So we made it that people need to mail there modified TweaksPack to wintweaks11@gmail.com and where they want to publish the file. 
+Yes we are in fact an open source but in a different way because we want to know where our files end up, So we made it that people need to mail there modified TweaksPack to wintweaks11@gmail.com and where they want to publish the file. 
 
 Then we send an Mail to verify the usage (if we don't accept it you need to delete the file from the publish location). And upload your modified TweakPack(if it's a safe file!?) to our Github page where you can download it. 
 
