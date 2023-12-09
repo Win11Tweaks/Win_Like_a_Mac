@@ -34,31 +34,37 @@ copies of the Software, subject to the following conditions:
 8. **Non-Official Source Warning:**
    - If the Software is downloaded from a non-official source not owned or operated by WinTweaks11, there will be NO support for any problems. The place, website, person, organization, company, etc., from which the software was obtained will be liable for any issues that may arise. This does not grant ownership of the software to the downloading entity; WinTweaks11 retains ownership.
 
-9. **Legal Action:**
-   - WinTweaks11 reserves the right to take legal steps, including but not limited to court proceedings, against places, websites, persons, organizations, companies, etc., that do not adhere to the terms of this license.
+9. **Non-Official Source Package Restriction:**
+   - If some software is non-official source not owned or operated by WinTweaks11 but the Software is part of a package of multiple pieces of software combined, created, published, developed, owned, worked on, etc., you may not publish it in any way without:
+     a. Sending a message on the discussion GitHub page, with the consumer providing where the consumer want to publish it, the consumer needs to leave a copy of the software with the message, (https://github.com/Win11Tweaks/Win_Like_a_Mac/discussions/categories/get-permission).
+     b. Sending an email to the email address, with the consumer providing where the consumer want to publish it, the consumer needs to leave a copy of the software with the message. (wintweaks11@gmail.com).
+     
+10. **Legal Action:**
+    - WinTweaks11 reserves the right to take legal steps, including but not limited to court proceedings, against places, websites, persons, organizations, companies, etc., that do not adhere to the terms of this license.
 
-10. **Handling of Private Information:**
+11. **Handling of Private Information:**
     - If any private information is collected by programs created, developed, or published by WinTweaks11, it must be explicitly mentioned. Programs not developed by WinTweaks11 are not WinTweaks11's responsibility, but rather the responsibility of the company that originally produced or published the software. This also means that WinTweaks11 does not offer any kind of warranty. The licenses of other software used only apply to their respective pieces of software; all other terms follow the license of WinTweaks11.
 
-11. **Termination Clause:**
-   - This License and the rights granted hereunder will terminate automatically upon any breach by you of the terms of this License. Individuals and entities that have received the software from you under this License will not have their licenses terminated provided such individuals or entities remain in full compliance with those licenses.
+12. **Termination Clause:**
+    - This License and the rights granted hereunder will terminate automatically upon any breach by you of the terms of this License. Individuals and entities that have received the software from you under this License will not have their licenses terminated provided such individuals or entities remain in full compliance with those licenses.
 
-12. **Compliance Warning and Legal Action:**
+13. **Compliance Warning and Legal Action:**
     - In the event that a consumer does not comply with the terms of this license, WinTweaks11 reserves the right to contact the individual or entity. If permission is not obtained, a warning will be issued, clearly stating that the software, the name "WinTweaks11," or any related materials should not be made public without explicit permission and must be either removed or set to private. Failure to comply with the warning may result in legal actions, fines, and a possible ban from the platform where the violation occurred.
 
-13. **Entire Agreement and Updates:**
+14. **Entire Agreement and Updates:**
     - This License constitutes the entire agreement between the parties and supersedes all prior agreements. WinTweaks11 reserves the right to provide updates to this License when/if needed, and users agree that WinTweaks11 is allowed to make these changes.
 
-14. **Ownership in Case of Invalid License:**
+15. **Ownership in Case of Invalid License:**
     - If, for any reason, the license is deemed invalid or unenforceable, WinTweaks11 remains the owner of the software, and individuals or entities must contact WinTweaks11 before making any modified versions public.
 
-15. **Notices:**
+16. **Notices:**
     - Users should direct any notices related to the license or the software to the email address specified on WinTweaks11's website or GitHub page (wintweaks11@gmail.com).
 
-16. **Project Attribution:**
-    - If this license is used for a project, it should be mentioned using one of the following formats: "(c)WinTweaks11_Open_Use_License" or "(c)W.O.U.L." or "(c)Wintweaks11OUL".
+17. **Project Attribution:**
+    - If this license is used for a project, it should be mentioned using one of the following formats: "(c)WinTweaks11_Open_Use_License" or "(c)W.O.U.L." or "(c)Wintweaks11OUL". 
+    - 'mentioned' Shall mean that one of the formats is placed anywhere in the README file or/and this license is deliverd with the software. The README file is named for example: 'README.md' or 'README.txt' or 'README' with any extension behind it. 
 
-17. **Governing Law:**
+18. **Governing Law:**
     - This License shall be governed by and construed in accordance with the laws of the Netherlands. Any disputes relating to this License shall be subject to the exclusive jurisdiction of the courts in the Netherlands.
 <br>
 <br>
