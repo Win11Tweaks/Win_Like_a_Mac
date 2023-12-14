@@ -1,7 +1,19 @@
-# These are supported funding model platforms
+github: Win11Tweaks
 
-Sponsorname: 7-Zip
-github: mcmilk
-open_collective: Igor Pavlov
-community_bridge: 7-Zip
-custom: https://www.7-zip.org
+# Define your sponsors
+sponsors:
+  - login: 7-zip
+    email: github@mcmilk.de # Replace with the email associated with the sponsor's GitHub account
+    name: 7-Zip
+    company: Igor Pavlov
+    tier: gold
+    avatar: https://www.7-zip.org/logos/7zlogo01.png  # Replace with the URL of the sponsor's avatar/logo
+
+# Define platforms and methods of funding
+platforms:
+  - url: https://www.7-zip.org
+    type: Website
+  - url: https://sourceforge.net/projects/sevenzip/
+    type: Sourceforge
+  - url: https://www.7-zip.org/sdk.html
+    type: Development Kit
