@@ -4,7 +4,7 @@ Did you always wanted a computer that has the looks of a Mac but all the softwar
 
 Something new that we do is that we make you able to download seperate apps instead of a full project file
 
-### **We provide the following features:**
+### **We want to provide the following features:**
    - **The MacOS Dock and LaunchPad**        _( and shortcut to Dock and LaunchPad )_
    - **The MacOS TitleBar**                              _( With function to move to the left WARNING! Experimental Feature )_
    - **The MacOS themes**                              _( Like DarkMode and LightMode )_
